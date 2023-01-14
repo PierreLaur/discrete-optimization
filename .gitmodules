@@ -1,0 +1,6 @@
+[submodule "basic-modeling-minizinc"]
+	path = basic-modeling-minizinc
+	url = git@github.com:PierreLaur/basic-modeling-minizinc.git
+[submodule "advanced-modeling-minizinc"]
+	path = advanced-modeling-minizinc
+	url = git@github.com:PierreLaur/advanced-modeling-minizinc.git
