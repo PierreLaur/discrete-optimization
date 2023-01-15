@@ -46,7 +46,7 @@ ann : valsel;
 
 solve :: int_search(s, varsel, valsel, complete)
       %:: int_search(array1d(b), varsel, valsel, complete)
-      minimize makespan;
+      satisfy;
 
 output ["makespan = ", show(makespan), "\n" ] ++
        [ show_int(3,s[t]) ++ " " 
