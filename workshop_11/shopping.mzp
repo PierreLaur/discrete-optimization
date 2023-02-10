@@ -1,0 +1,28 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "shopping.mzn",
+        "data/shopping0.dzn"
+    ],
+    "openTab": 1,
+    "projectFiles": [
+        "data/shopping0.dzn",
+        "data/shopping1.dzn",
+        "data/shopping2.dzn",
+        "data/shopping3.dzn",
+        "data/shopping4.dzn",
+        "data/shopping5.dzn",
+        "data/shopping6.dzn",
+        "data/shopping7.dzn",
+        "data/shopping8.dzn",
+        "shopping01.mzc",
+        "shopping.mzc",
+        "shopping.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.0.1",
+    "version": 105
+}
